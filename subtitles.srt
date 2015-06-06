@@ -1,0 +1,10 @@
+1
+00:00:00,269 --> 00:00:03,540
+okay so I'm trying Google API now on a
+native
+
+2
+00:00:03,540 --> 00:00:07,180
+video that contain some text thank you
+very much
+
