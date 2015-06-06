@@ -20,7 +20,7 @@ This proof of concept :
 
 What we need to do
 ==================
- - Take it a step further and upload the RST back to Youtube (easy).
+ - Take it a step further and upload the SRT back to Youtube (easy).
  - Create a proper command line tool that, given a Youtube video id (or link) and its .txt
    transcript, does it all
  - Create a Django App to do the same thing AND manage OAuth2 properly. For now, one has
