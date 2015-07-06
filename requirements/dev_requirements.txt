@@ -1,0 +1,7 @@
+-r requirements.txt
+
+ipython[notebook]
+
+pep8
+pylint
+flake8

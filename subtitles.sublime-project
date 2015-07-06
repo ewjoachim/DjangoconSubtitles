@@ -1,0 +1,38 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"SublimeLinter":
+    {
+    	"@python": 3,
+		"linters": {
+            "pep8": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "C0111",
+                "max-line-length": 800,
+                "select": ""
+            },
+            "pyflakes": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "C0111"
+            },
+            "pylint": {
+                "@disable": false,
+                "args": [],
+                "disable": "",
+                "enable": "",
+                "excludes": [],
+                "paths": [],
+                "rcfile": "./pylintrc",
+                "show-codes": true
+            }
+        }
+    }
+}

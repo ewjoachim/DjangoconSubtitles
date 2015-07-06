@@ -1,3 +1,0 @@
-pysrt
-ipython[notebook]
-requests
